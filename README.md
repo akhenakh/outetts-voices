@@ -2,13 +2,13 @@
 
 Free Voices for [OuteTTS](https://github.com/edwko/OuteTTS).
 
-
 ## Voices
-- en_US Female [listen](./mp3/en_us_female_speaker.mp3)
-- en_US Male [listen](./mp3/en_us_male_speaker.mp3)
-- fr_CAN Female [listen](./mp3/fr_can_female_speaker.mp3)
-- fr_CAN Female 2 [listen](./mp3/fr_can_female2_speaker.mp3)
-- fr_CAN Male [listen](./mp3/fr_can_male_speaker.mp3)
+- en_US Female [listen](https://raw.githubusercontent.com/akhenakh/outetts-voices/main/mp3/en_us_female_speaker.mp3)
+- en_US Male [listen](https://raw.githubusercontent.com/akhenakh/outetts-voices/main/mp3/en_us_male_speaker.mp3)
+- fr_CAN Female [listen](https://raw.githubusercontent.com/akhenakh/outetts-voices/main/mp3/fr_can_female_speaker.mp3)
+- fr_CAN Female 2 [listen](https://raw.githubusercontent.com/akhenakh/outetts-voices/main/mp3/fr_can_female2_speaker.mp3)
+- fr_CAN Male [listen](https://raw.githubusercontent.com/akhenakh/outetts-voices/main/mp3/fr_can_male_speaker.mp3)
+
 
 
 ## Usage
